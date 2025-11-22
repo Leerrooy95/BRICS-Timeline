@@ -1,8 +1,6 @@
 # BRICS Partner-Tier Expansion and the Surge in NDB Local-Currency Lending:  
 A Difference-in-Differences Analysis (2015–2025)
 
-![Local Currency Share Post-Expansion](results/local_currency_share.png)
-
 **Key result**: The 2024–2025 addition of nine new BRICS partner countries (Egypt, UAE, Ethiopia, Iran, Indonesia, etc.) is associated with a **25.5 percentage point** increase in the share of New Development Bank (NDB) projects financed in local currency vs USD (p < 0.001, 10,000 permutation test).
 
 ### Treatment group
